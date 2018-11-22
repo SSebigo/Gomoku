@@ -33,7 +33,6 @@ class neural_network(object):
             self.nbr_neurons_per_layers[self.nbr_hidden_layers-1], self.nbr_end_points_layers)
 
     def feed_forward(self, inputs):
-        # forward propagation through our network
         # self.input_neurons_by_input_weights_matrix = np.dot(inputs, self.input_weights_matrix)
         # self.input_activated_neurons_matrix = self.relu(self.input_neurons_by_input_weights_matrix)
 
