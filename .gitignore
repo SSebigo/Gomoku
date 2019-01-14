@@ -102,3 +102,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# vscode
+.vscode/
+# GomokuTournament/
+test.py
+data1/
+data2/
+data3/
+data4/
+data5/
+data6/
+population_data.json
+SampleMutation.py
