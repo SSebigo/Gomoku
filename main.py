@@ -4,8 +4,6 @@ import getopt
 
 from genetic_algorithm import GeneticAlgorithm
 
-# python main.py <mutation rate> <max generations> <load weigts from memory [--from_memory]>
-
 
 def main(argv):
 
